@@ -50,9 +50,9 @@ img {
 button{
     display: block;
     margin: 20px auto;
-    background: #FF9500;  
+    background: #FF5600;  
     /*background: #2A2A2E;*/  
-    box-shadow:  0px 0px 5px #FF5600;
+    box-shadow:  0px 0px 5px #FF9500;
     /*box-shadow:  0px 0px 5px #0C0C0D;*/
     width: 200px;
     height: 40px;
