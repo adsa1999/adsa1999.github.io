@@ -50,10 +50,10 @@ img {
 button{
     display: block;
     margin: 20px auto;
-    /*background: #020E3E;*/  
-    background: #2A2A2E;  
-    /*box-shadow:  0px 0px 5px #0172EC;*/
-    box-shadow:  0px 0px 5px #0C0C0D;
+    background: #FF9500;  
+    /*background: #2A2A2E;*/  
+    box-shadow:  0px 0px 5px #FF5600;
+    /*box-shadow:  0px 0px 5px #0C0C0D;*/
     width: 200px;
     height: 40px;
     border: none;
