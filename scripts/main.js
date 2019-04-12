@@ -1,17 +1,17 @@
 var miHTML = document.querySelector('html');
 var miBody = document.querySelector('body');
-var miImage = document.querySelector('img');
+//var miImage = document.querySelector('img');
 
-miImage.onclick = function () {
-    var miSrc = miImage.getAttribute('src');
-    if (miSrc === 'images/firefox-logo.png') {
-        miImage.setAttribute('src', 'images/firefox-dev-logo.png');
-        miHTML.setAttribute('background', '#FFFF00');
-    }
-    else {
-        miImage.setAttribute('src', 'images/firefox-logo.png');
-    }
-}
+//miImage.onclick = function () {
+//    var miSrc = miImage.getAttribute('src');
+//    if (miSrc === 'images/firefox-logo.png') {
+//        miImage.setAttribute('src', 'images/firefox-dev-logo.png');
+//        miHTML.setAttribute('background', '#FFFF00');
+//    }
+//    else {
+//        miImage.setAttribute('src', 'images/firefox-logo.png');
+//    }
+//}
 
 var miButton = document.querySelector('button');
 var miTitulo = document.querySelector('h1');

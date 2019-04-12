@@ -39,3 +39,10 @@ p, li, a {
     color: #FFFFFF;
     text-align:justify;
 }
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
